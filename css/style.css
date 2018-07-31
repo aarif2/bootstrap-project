@@ -1,0 +1,52 @@
+.navbar {
+    border-bottom: 5px solid #3DA2FF;
+    opacity: .9;
+}
+
+#header {
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+    height: 100vh;
+    color: #fff;
+}
+
+#header input[type="submit"]:hover {
+    color: #333;
+}
+
+#header .card-form {
+    opacity: .8;
+}
+
+#header .fa {
+    color: #3DA2FF;
+    padding: 4px;
+    border-radius: 5px;
+    background: #fff;
+}
+
+#header .col-lg-8 {
+    animation-delay: .1s;
+}
+
+#header .col-lg-4 {
+    animation-delay: .3s;
+}
+
+section h4 {
+    margin-bottom: 20px;
+}
+
+.line {
+    width: 10px;
+    height: 20px;
+    background-color: #fff;
+}
+
+.modal-header span {
+    padding: 4px;
+}
+
+/*# sourceMappingURL=style.css.map */
